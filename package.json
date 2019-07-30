@@ -1,0 +1,24 @@
+{
+  "name": "js-com-tdd-na-pratica",
+  "version": "1.0.0",
+  "description": "Following udemy clasess",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Vibpositive/udemy-js-with-tdd.git"
+  },
+  "keywords": [
+    "js",
+    "tdd",
+    "node"
+  ],
+  "author": "Gabriel Santos <ras.vibpositive@gmail.com> (http://github.com/vibpositive)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Vibpositive/udemy-js-with-tdd/issues"
+  },
+  "homepage": "https://github.com/Vibpositive/udemy-js-with-tdd#readme"
+}
